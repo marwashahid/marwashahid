@@ -25,8 +25,7 @@ Marwa Shahid</a></h1>
 </a>
 
 
-- 🌱 I’m currently Working on Generative AI and Natural Language Processing
-
+- 🌱 I’m currently working on Generative AI and Natural Language Processing
 - 🌱 I’m proficient in Python, Node.js and C++
 
 - 📝 I regularly write articles on https://medium.com/@marvashahid09
