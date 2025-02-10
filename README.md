@@ -25,11 +25,7 @@ Marwa Shahid</a></h1>
 </a>
 
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
-  
-- 🌱 I'm currently also working on Natural Language Processing and Data Mining
-  
-- 🤝 I'm currently working on a research journal on sentiment analysis
+- 🌱 I’m currently Working on Generative AI and Natural Language Processing
 
 - 🌱 I’m proficient in Python, Node.js and C++
 
