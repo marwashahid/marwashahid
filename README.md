@@ -30,7 +30,7 @@ Marwa Shahid</a></h1>
 
 - 📝 I regularly write articles on https://medium.com/@marvashahid09
 
-- 💬 Ask me about **React-Native, Python**
+- 💬 Ask me about LLMs, NLP, GenAI
 
 - 📫 How to reach me **marvashahid09@gmail.com**
 
