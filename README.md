@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm <a href="https://marwashahid.github.io/marwashahid.dev/" target="blank">
 Marwa Shahid</a></h1>
-<h3 align="center">A passionate Computer Scientist from Pakistan (PK)</h3>
 
 
 
@@ -25,12 +24,7 @@ Marwa Shahid</a></h1>
 </a>
 
 
-- 🌱 I’m currently working on Generative AI and Natural Language Processing
-- 🌱 I’m proficient in Python, Node.js and C++
-
 - 📝 I regularly write articles on https://medium.com/@marvashahid09
-
-- 💬 Ask me about LLMs, NLP, GenAI
 
 - 📫 How to reach me **marvashahid09@gmail.com**
 
